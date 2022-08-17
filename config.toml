@@ -1,0 +1,49 @@
+baseURL = 'http://example.org/'
+
+theme = 'hugo-theme-cleanwhite'
+
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+[languages]
+  [languages.en]
+    contentDir = "content/en" #English
+    weight = 1
+    languageName = "English" # Name shown in the main menu
+    
+    title = "Jiaming's Blog"
+    [languages.en.params]
+      linkedin = "https://muscaestar.github.io/myBlog/en/"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = ""
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "About"
+        url = "page/about/"
+        weight = 3
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 3
+  [languages.zh-CN]
+    contentDir = "content/zh-CN" #Simplified Chinese
+    weight = 2
+    languageName = "简体中文" # Name shown in the main menu
+    title = "Jiaming's Blog"
+    [languages.zh-CN.params]
+      linkedin = "https://muscaestar.github.io/myBlog/zh-CN/"
+    [[languages.zh-CN.menu.main]]
+        name = "博客"
+        url = ""
+        weight = 1
+    [[languages.zh-CN.menu.main]]
+        name = "关于"
+        url = "page/about/"
+        weight = 3
+    [[languages.zh-CN.menu.main]]
+        name = "标签"
+        url = "tags"
+        weight = 3
+
+[params]
+  header_image = "img/Delft_center_purple.jpg"
