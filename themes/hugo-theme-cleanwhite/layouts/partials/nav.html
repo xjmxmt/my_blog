@@ -54,7 +54,7 @@
                                 <div class="navlinks-children">
                                 {{ range .Site.Languages }}
                                     {{ if not (eq .Lang $.Site.Language.Lang) }}
-                                    <a href="/{{ .Lang }}" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
+                                    <a href="/my_blog/{{ .Lang }}" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
                                     {{ end }}
                                 {{ end }}
                                 </div>
@@ -63,7 +63,7 @@
                             <li>
                                 {{ range .Site.Languages }}
                                     {{ if not (eq .Lang $.Site.Language.Lang) }}
-                                        <a href="/{{ .Lang }}" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
+                                        <a href="/my_blog/{{ .Lang }}" lang="{{ .Lang }}">{{ default .Lang .LanguageName }}</a>
                                     {{ end }}
                                 {{ end }}
                             </li>

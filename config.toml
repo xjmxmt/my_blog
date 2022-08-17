@@ -9,7 +9,6 @@ DefaultContentLanguageInSubdir = true
     contentDir = "content/en" #English
     weight = 1
     languageName = "English" # Name shown in the main menu
-    
     title = "Jiaming's Blog"
     [languages.en.params]
       linkedin = "https://xjmxmt.github.io/my_blog/en/"
