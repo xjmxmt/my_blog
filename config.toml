@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 
 theme = 'hugo-theme-cleanwhite'
-
+publishDir = "docs"
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]

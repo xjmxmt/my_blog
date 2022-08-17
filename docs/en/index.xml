@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaming&#39;s Blog</title>
+    <link>http://example.org/en/</link>
+    <description>Recent content on Jiaming&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://example.org/en/page/about/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/en/page/about/</guid>
+      <description>Jiaming Xu My primary interests include Deep Learning, Distributed System, Federated Learning, Privacy-Preserving Machine Learning. Email / GitHub
+💻 Technical Experience Intern @ Erasmus MC - BIGR (Jul 2021 - Oct 2021)
+The Biomedical Imaging Group Rotterdam (BIGR) is a research group within the department of Radiology &amp;amp; Nuclear Medicine of the Erasmus MC. (Netherlands)
+ Independently designed and conducted experiments of using Deep Learning on the task of cerebrovascular segmentation and classification under the guidance of a doctoral student and a professor; U-Net and its variants were designed and used in experiments so that the segmentation model could make better use of information from the time-series image sequences.</description>
+    </item>
+    
+    <item>
+      <title>Attacks on Federated Learning system</title>
+      <link>http://example.org/en/post/attacks_on_fl_system/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/en/post/attacks_on_fl_system/</guid>
+      <description>Background  Federated Learning (FL for short): FL is a Machine Learning framework that enables different parties to jointly train a model. It is proposed with the purpose of preserving privacy, since by design, no one has access to the local data except for the owner, however, this framework still has some inherent imperfections, for example, the central aggregator has the chance of peeking each individual&amp;rsquo;s model, attackers may upload malicious updates.</description>
+    </item>
+    
+    <item>
+      <title>Client Selection</title>
+      <link>http://example.org/en/unfinished_post/client_selection/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/en/unfinished_post/client_selection/</guid>
+      <description>Drawbacks of the uniform client selection strategy  communication delay, and clients easily drop out  </description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://example.org/en/unfinished_post/first/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/en/unfinished_post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Example Post</title>
+      <link>http://example.org/en/unfinished_post/second/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/en/unfinished_post/second/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

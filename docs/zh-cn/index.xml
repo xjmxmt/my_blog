@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiaming&#39;s Blog</title>
+    <link>http://example.org/zh-cn/</link>
+    <description>Recent content on Jiaming&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 21:15:15 +0200</lastBuildDate><atom:link href="http://example.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>拆腻子</title>
+      <link>http://example.org/zh-cn/post/first/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/zh-cn/post/first/</guid>
+      <description>拆腻子 </description>
+    </item>
+    
+  </channel>
+</rss>

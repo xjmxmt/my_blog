@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jiaming&#39;s Blog</title>
+    <link>http://example.org/en/post/</link>
+    <description>Recent content in Posts on Jiaming&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 17 May 2022 21:15:15 +0200</lastBuildDate><atom:link href="http://example.org/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attacks on Federated Learning system</title>
+      <link>http://example.org/en/post/attacks_on_fl_system/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>http://example.org/en/post/attacks_on_fl_system/</guid>
+      <description>Background  Federated Learning (FL for short): FL is a Machine Learning framework that enables different parties to jointly train a model. It is proposed with the purpose of preserving privacy, since by design, no one has access to the local data except for the owner, however, this framework still has some inherent imperfections, for example, the central aggregator has the chance of peeking each individual&amp;rsquo;s model, attackers may upload malicious updates.</description>
+    </item>
+    
+  </channel>
+</rss>
