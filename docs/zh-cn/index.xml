@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaming&#39;s Blog</title>
-    <link>http://example.org/zh-cn/</link>
+    <link>https://xjmxmt.github.io/my_blog/zh-cn/</link>
     <description>Recent content on Jiaming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 21:15:15 +0200</lastBuildDate><atom:link href="http://example.org/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 May 2022 21:15:15 +0200</lastBuildDate><atom:link href="https://xjmxmt.github.io/my_blog/zh-cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>拆腻子</title>
-      <link>http://example.org/zh-cn/post/first/</link>
+      <link>https://xjmxmt.github.io/my_blog/zh-cn/post/first/</link>
       <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
       
-      <guid>http://example.org/zh-cn/post/first/</guid>
+      <guid>https://xjmxmt.github.io/my_blog/zh-cn/post/first/</guid>
       <description>拆腻子 </description>
     </item>
     

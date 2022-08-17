@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/zh-cn/</loc>
+    <loc>https://xjmxmt.github.io/my_blog/zh-cn/</loc>
     <lastmod>2022-05-17T21:15:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://xjmxmt.github.io/my_blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/"
+                href="https://xjmxmt.github.io/my_blog/zh-cn/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/post/</loc>
+    <loc>https://xjmxmt.github.io/my_blog/zh-cn/post/</loc>
     <lastmod>2022-05-17T21:15:15+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/post/"
+                href="https://xjmxmt.github.io/my_blog/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/post/"
+                href="https://xjmxmt.github.io/my_blog/zh-cn/post/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/post/first/</loc>
+    <loc>https://xjmxmt.github.io/my_blog/zh-cn/post/first/</loc>
     <lastmod>2022-05-17T21:15:15+02:00</lastmod>
   </url><url>
-    <loc>http://example.org/zh-cn/categories/</loc>
+    <loc>https://xjmxmt.github.io/my_blog/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://xjmxmt.github.io/my_blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/categories/"
+                href="https://xjmxmt.github.io/my_blog/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://example.org/zh-cn/tags/</loc>
+    <loc>https://xjmxmt.github.io/my_blog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://xjmxmt.github.io/my_blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://example.org/zh-cn/tags/"
+                href="https://xjmxmt.github.io/my_blog/zh-cn/tags/"
                 />
   </url>
 </urlset>

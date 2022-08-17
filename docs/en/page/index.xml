@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Jiaming&#39;s Blog</title>
-    <link>http://example.org/en/page/</link>
+    <link>https://xjmxmt.github.io/my_blog/en/page/</link>
     <description>Recent content in Pages on Jiaming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://xjmxmt.github.io/my_blog/en/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://example.org/en/page/about/</link>
+      <link>https://xjmxmt.github.io/my_blog/en/page/about/</link>
       <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/en/page/about/</guid>
+      <guid>https://xjmxmt.github.io/my_blog/en/page/about/</guid>
       <description>Jiaming Xu My primary interests include Deep Learning, Distributed System, Federated Learning, Privacy-Preserving Machine Learning. Email / GitHub
 💻 Technical Experience Intern @ Erasmus MC - BIGR (Jul 2021 - Oct 2021)
 The Biomedical Imaging Group Rotterdam (BIGR) is a research group within the department of Radiology &amp;amp; Nuclear Medicine of the Erasmus MC. (Netherlands)

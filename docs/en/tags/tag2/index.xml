@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tag2 on Jiaming&#39;s Blog</title>
-    <link>http://example.org/en/tags/tag2/</link>
+    <link>https://xjmxmt.github.io/my_blog/en/tags/tag2/</link>
     <description>Recent content in tag2 on Jiaming&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/en/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://xjmxmt.github.io/my_blog/en/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Example Post</title>
-      <link>http://example.org/en/unfinished_post/second/</link>
+      <link>https://xjmxmt.github.io/my_blog/en/unfinished_post/second/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/en/unfinished_post/second/</guid>
+      <guid>https://xjmxmt.github.io/my_blog/en/unfinished_post/second/</guid>
       <description></description>
     </item>
     
