@@ -6,7 +6,7 @@ draft: false
 
 # Jiaming Xu
 
-{{< img src="/img/my_photo.jpg" openable=false width="10px" align="center" >}}
+{{< figure src="/img/my_photo.jpg" openable=false align="center" >}}
 
 _My primary interests include Deep Learning, Distributed System, Federated Learning, Privacy-Preserving Machine Learning._ <br>
 

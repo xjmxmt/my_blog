@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     
     title = "Jiaming's Blog"
     [languages.en.params]
-      linkedin = "https://muscaestar.github.io/myBlog/en/"
+      linkedin = "https://xjmxmt.github.io/my_blog/en/"
     [[languages.en.menu.main]]
         name = "Blog"
         url = ""
@@ -31,7 +31,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "简体中文" # Name shown in the main menu
     title = "Jiaming's Blog"
     [languages.zh-CN.params]
-      linkedin = "https://muscaestar.github.io/myBlog/zh-CN/"
+      linkedin = "https://xjmxmt.github.io/my_blog/zh-CN/"
     [[languages.zh-CN.menu.main]]
         name = "博客"
         url = ""
