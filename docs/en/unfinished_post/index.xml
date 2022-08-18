@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 17 May 2022 21:15:15 +0200</lastBuildDate><atom:link href="https://xjmxmt.github.io/my_blog/en/unfinished_post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Attacks on Federated Learning system</title>
+      <link>https://xjmxmt.github.io/my_blog/en/unfinished_post/attacks_on_fl_system/</link>
+      <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
+      
+      <guid>https://xjmxmt.github.io/my_blog/en/unfinished_post/attacks_on_fl_system/</guid>
+      <description>Background  Federated Learning (FL for short): FL is a Machine Learning framework that enables different parties to jointly train a model. It is proposed with the purpose of preserving privacy, since by design, no one has access to the local data except for the owner, however, this framework still has some inherent imperfections, for example, the central aggregator has the chance of peeking each individual&amp;rsquo;s model, attackers may upload malicious updates.</description>
+    </item>
+    
+    <item>
       <title>Client Selection</title>
       <link>https://xjmxmt.github.io/my_blog/en/unfinished_post/client_selection/</link>
       <pubDate>Tue, 17 May 2022 21:15:15 +0200</pubDate>
