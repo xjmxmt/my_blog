@@ -32,10 +32,10 @@ Advisor: Prof. Lichao Sun
 
 ## 🎓 Education
 
-**Master** in Computer Science - Data Science\
+**Master** in Computer Science - Data Science (7.99/10)\
 Delft University of Technology (TU Delft) - Deft, Netherlands
 
-**Bachelor** in Software Engineering\
+**Bachelor** in Software Engineering (3.83/4)\
 University of Electronic Science and Technology of China (UESTC) - Chengdu, China
 
 ## 📒 Skills
